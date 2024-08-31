@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Gregory Scala"
   pronouns         : # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : # "Earth"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "gregory.scala@pitt.edu"
 
