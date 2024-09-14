@@ -1,16 +1,14 @@
 ---
-permalink: /
-title: "Gregory Scala"
+permalink: /research
+title: "Research"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /research/
+  - /research.html
+  - /publications.html
 ---
-
-My name is Gregory Scala. I am a sixth year PhD student in Economics at the University of Pittsburgh.
-
-Research Interests 
-=====
-
-**Primary:** Health Economics, Industrial Organization \
-**Secondary:** Applied Microeconomics, Applied Econometrics
+ 
+## Works in Progress
+- Do Minority Individuals Benefit from Supplemental Benefits in Medicare Advantage? (Job Market Paper)
+  (Draft Forthcoming)
+- Did the Medicare Advantage Double Bonus Program increase Supplemental Benefit Offerings in Medicare Advantage plans?
