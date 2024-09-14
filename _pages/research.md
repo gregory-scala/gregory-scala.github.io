@@ -1,6 +1,3 @@
----
-permalink: /research/
-title: "Research"
 author_profile: true
 redirect_from: 
   - /research
@@ -9,6 +6,12 @@ redirect_from:
 ---
  
 ## Works in Progress
+<<<<<<< HEAD
 - **Do Minority Individuals Benefit from Supplemental Benefits in Medicare Advantage?** (Job Market Paper)
   (Draft Forthcoming)
 - **Did the Medicare Advantage Double Bonus Program increase Supplemental Benefit Offerings in Medicare Advantage plans?**
+=======
+- Do Minority Individuals Benefit from Supplemental Benefits in Medicare Advantage? (Job Market Paper) \
+  (Draft Forthcoming)
+- Did the Medicare Advantage Double Bonus Program increase Supplemental Benefit Offerings in Medicare Advantage plans?
+>>>>>>> b319d1003cc27660e2df3cfece182c77efb1ea10
