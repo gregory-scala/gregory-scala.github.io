@@ -11,6 +11,9 @@ main:
     
   - title: "Research"
     url: /research/
+  
+  - title: "JMP"
+    url: /files/JMP.pdf
 
 #  - title: "Talks"
 #    url: /talks/    
