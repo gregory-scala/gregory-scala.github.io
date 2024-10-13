@@ -6,8 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Gregory Scala
+=====
 
-My name is Gregory Scala. I am a PhD Candidate in Economics at the University of Pittsburgh.
+My name is Gregory Scala. I am a PhD Candidate in Economics at the University of Pittsburgh. I am on the Job Market in the AY 2024-2025.
 
 Research Interests 
 =====
