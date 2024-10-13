@@ -11,7 +11,8 @@ My name is Gregory Scala. I am a PhD Candidate in Economics at the University of
 
 I am on the Job Market in the AY 2024-2025.
 
-Please find my Job Market Paper [here.](https://www.dropbox.com/scl/fi/8ks9eofrq1aeolayl9zc1/JMP.pdf?rlkey=r4nddi3vof2uyjm4nt9l1tnkc&st=9jz4snig&dl=0)
+
+Please find my Job Market Paper [here.](https://www.dropbox.com/scl/fi/8ks9eofrq1aeolayl9zc1/JMP.pdf?rlkey=r4nddi3vof2uyjm4nt9l1tnkc&st=9jz4snig&dl=0){:target="_blank"}
 
 Research Interests 
 =====
