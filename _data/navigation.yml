@@ -24,8 +24,8 @@ main:
 #  - title: "Blog Posts"
 #   url: /year-archive/
 
-#  - title: "Code"
-#  url :/code
+  - title: "Coding Portfolio"
+    url :/code/
     
 #  - title: "Guide"
 #    url: /markdown/
