@@ -12,7 +12,7 @@ redirect_from:
 - **Do Racial and Ethnic Minorities Benefit from Supplemental Benefits in Medicare Advantage?**  (Job Market Paper)
   (Preliminary draft available upon request)
   <br/><br/>
-  *Abstract* This paper analyzes different factors that lead to the increasing enrollment of racial
+  *Abstract:* This paper analyzes different factors that lead to the increasing enrollment of racial
 and ethnic minorities in Medicare Advantage plans as opposed to Traditional Fee for
 Service Medicare (Traditional Medicare; TM). Previous work has identified this patter,
 but the mechanism leading to this enrollment gap is largely unknown. I develop a model
