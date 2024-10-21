@@ -7,9 +7,11 @@ redirect_from:
   - /research.html
   - /publications.html
 ---
- 
-## Works in Progress
+
+## Working Papers
 - **Do Racial and Ethnic Minorities Benefit from Supplemental Benefits in Medicare Advantage?** 
-  - (Job Market Paper)
-  (Draft Forthcoming)
+  - (Job Market Paper) \
+  (Preliminary draft available upon request)
+
+## Works in Progress
 - **Did the Medicare Advantage Double Bonus Program increase Supplemental Benefit Offerings in Medicare Advantage plans?**
