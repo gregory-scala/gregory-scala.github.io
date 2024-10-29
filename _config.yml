@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gregory Scala's Webpage"
+title                    : "Gregory Scala"
 title_separator          : "-"
 name                     : &name "Gregory Scala"
 description              : &description "personal description"
