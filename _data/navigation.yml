@@ -5,15 +5,15 @@
 # prevent it from being included in the site.
 
 main:
-    
+
+  - title: "CV"
+    url: https://drive.google.com/file/d/1FzZRKDUscJYgGrcqA2TyNWtHwTJdse8D/view?usp=sharing {:target="_blank"} 
+
   - title: "Research"
     url: /research/
 
   - title: "Coding Portfolio"
     url: /code/
-
-  - title: "CV"
-    url: https://drive.google.com/file/d/1FzZRKDUscJYgGrcqA2TyNWtHwTJdse8D/view?usp=sharing{:target="_blank"}
 
 #  - title: "Talks"
 #    url: /talks/    
