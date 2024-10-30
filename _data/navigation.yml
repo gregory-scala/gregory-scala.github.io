@@ -7,12 +7,13 @@
 main:
 
   - title: "CV"
-    url: https://drive.google.com/file/d/1FzZRKDUscJYgGrcqA2TyNWtHwTJdse8D/view?usp=sharing {:target="_blank"} 
+    url: https://drive.google.com/file/d/1FzZRKDUscJYgGrcqA2TyNWtHwTJdse8D/view?usp=sharing
+    target: "_blank"
 
   - title: "Research"
     url: /research/
 
-  - title: "Coding Portfolio"
+  - title: "Code"
     url: /code/
 
 #  - title: "Talks"
