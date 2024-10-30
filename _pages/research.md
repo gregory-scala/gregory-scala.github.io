@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ## Working Papers
-- **Do Racial and Ethnic Minorities Benefit from Supplemental Benefits in Medicare Advantage?**  (Job Market Paper)
-  (Preliminary draft available upon request)
+- **[Do Racial and Ethnic Minorities Benefit from Supplemental Benefits in Medicare Advantage?](https://drive.google.com/file/d/1m6wWJlCT6lG0K42SUhnOJmTvzPtuqsQ4/view?usp=sharing){:target="_blank"}**  (Job Market Paper)
+  
   <br/><br/>
   *Abstract:* This paper analyzes different factors that lead to the increasing enrollment of racial
 and ethnic minorities in Medicare Advantage plans as opposed to Traditional Fee for
