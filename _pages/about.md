@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is Gregory Scala. I am a PhD Candidate in Economics at the University of Pittsburgh. My research is at the intersection of Health Economics and Industrial Organization. I am particularly interested in how consumers value and how companies provide different benefits in health insurance.
+Welcome to my website! My name is Gregory Scala. I am a PhD Candidate in Economics at the University of Pittsburgh. My research is at the intersection of health economics and industrial organization. I am particularly interested in how consumers value and how companies provide different benefits in health insurance.
 
 I am on the Job Market in the AY 2024-2025.
 
