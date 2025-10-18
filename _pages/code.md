@@ -19,7 +19,7 @@ In this project, I conduct Difference-in-Difference estimation to analyze the ef
 
 # Personal Projects 
 
-## [Identifying Baseball Players Skilled in Hitting, Power, and Speed](https://github.com/gregory-scala/did_project){:target="_blank"} 
+## [Identifying Baseball Players Skilled in Hitting, Power, and Speed](https://github.com/gregory-scala/baseball_database_project){:target="_blank"} 
 
  This SQL project uses the [Lahman Baseball Database (2023 version)](https://sabr.org/lahman-database/) to identify "three-tool" baseball players. 
 
